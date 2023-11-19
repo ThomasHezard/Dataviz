@@ -10,6 +10,7 @@ Mostly inspired by [tinytuesday challenges](https://github.com/rfordatascience/t
 
 Work done on 2023-11-19, just started to discover R the day before 😉   
 I did not spend much time on the aesthetics, but I'm happy to have done it by myself 💪  
+[EDIT] Updated version with thanks to [@abichat](https://github.com/abichat) who taught me the R basics and gave me few tips here.  
 [Code to generate the image.](tinytuesday_2023-08-22_Refugees/2023-08-22_Refugees.R)
 
 ![2023-08-22_Refugees](tinytuesday_2023-08-22_Refugees/2023-08-22_Refugees.png)
