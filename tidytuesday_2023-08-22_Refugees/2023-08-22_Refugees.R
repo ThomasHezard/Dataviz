@@ -5,7 +5,7 @@
 library(tidyverse)
 library(countrycode)
 
-# Get data from tinytuesday repo
+# Get data from tidytuesday repo
 population <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-08-22/population.csv')
 
 # Have a look at the data
@@ -67,5 +67,5 @@ modif_population %>%
   labs(fill = 'Asylum region')
 
 # Save output image
-ggsave("tinytuesday_2023-08-22_Refugees/2023-08-22_Refugees.png", width = 1500, height = 700, units = "px")
+ggsave("tidytuesday_2023-08-22_Refugees/2023-08-22_Refugees.png", width = 1500, height = 700, units = "px")
 
